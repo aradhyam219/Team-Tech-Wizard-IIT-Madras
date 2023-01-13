@@ -107,14 +107,14 @@ Languages and Tools
 
 |step|description|
 |-------|---------|
-|`Step 1`|create database innverse|
-|`Step 2`|import innerve.sql|
-|`Step 3` |create innerve folder at Htdocs|
+|`Step 1`|create database |
+|`Step 2`|import database.sql|
+|`Step 3` |copy folder at Htdocs|
 |`Step 4` |download this repositories and upload it |
 |`Step 5` |Start Xampp Server|
-|`Step 6` |[Admin Panel](https://smilewellnessfoundation.org/hackathon_NITR/admin%20files/login.php)|
-|`Step 7` |[User Panel](https://smilewellnessfoundation.org/hackathon_NITR/login.php)|
-|`Step 8` |[Driver Panel](https://smilewellnessfoundation.org/hackathon_NITR/driver%20files/login.php)|
+|`Step 6` |[Admin Panel](https://smilewellnessfoundation.org/hackathon_iitmadras/admin files/login.php)|
+|`Step 7` |[User Panel](https://smilewellnessfoundation.org/hackathon_iitmadras/net_banking_login.php)|
+
 
 ## Credentials
 
@@ -122,54 +122,18 @@ Languages and Tools
 |----|-------|---------|
 |`Admin panel`|ritwik1234|1q1q|
 |`User Panel`|ritwikdalmia|1q1q|
-|`Driver Panel`|driver-pl-br-001|1q1q|
+if you want to use your account 
+
+|step|description|
+|-------|---------|
+|`Step 1`|create account |
+|`Step 2`|login to admin panel with same credential|
+|`Step 3` |manage applications|
+|`Step 4` |view details |
+|`Step 5` |generate card|
+|`Step 6` |here now you can login with the net banking to enjoy our services|
+
+
+
 
  
-<!-- --------------------------------------------------GitHub Profile Metrics---------------------------------------------------- -->
-
-<summary><b>🛠️&nbsp;&nbsp;GitHub Profile Metrics</b></summary><br>
-    <p align="center"> <a href="https://metrics.lecoq.io/ritwikdalmia"><img src="https://metrics.lecoq.io/ritwikdalmia" alt="ritwikdalmia" /></a> </p>
-
-
-
-<!-- --------------------------------------------------GitHub Profile Trophy---------------------------------------------------- -->
-
-  <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Trophy</b></summary><br>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwikdalmia&column=5&margin-w=15&margin-h=15" alt="ritwikdalmia" /></a> </p>
-
-
-<!-- ------------------------------------------------------Most Used Languages----------------------------------------------------- -->
-
-
-  <summary><b>🛠️&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages</b></summary><br>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikdalmia)](https://github.com/ritwikdalmia/github-readme-stats/>
-    </p>
-
-
-<!-- ------------------------------------------------------GitHub Stats----------------------------------------------------- -->
-
-
-  <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Stats</b></summary><br>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikdalmia&layout=compact)](https://github.com/ritwikdalmia/github-readme-stats)"/>
-    </p>
-
-
-<!-- ------------------------------------------------------GitHub Streak----------------------------------------------------- -->
-
-  <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Streak</b></summary><br>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=crescentpartha&theme=radical" alt="ritwikdalmia"/>
-    </p>
-
-<!-- ------------------------------------------------------Activity Graph----------------------------------------------------- -->
-
-
-  <summary><b>🛠️&nbsp;&nbsp;ritwik dalmia's&nbsp;Activity&nbsp;Graph</b></summary><br>
-
-  [![ritwik dalmia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ritwikdalmia&theme=react-dark)](https://github.com/ritwikdalmia/github-readme-activity-graph)
-
-
-<!-- --- -->
-
