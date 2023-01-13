@@ -13,13 +13,12 @@ $showError=false;
     
  include "dbconnect.php";
  
- $login_username=$_SESSION['login_username'];
+ $admin_username=$_SESSION['admin_username'];
 
- $select_display= "select * from users where login_username='$login_username'" ;
+ $select_display= "select * from admin where admin_username='$admin_username'" ;
  $select_sql1 = mysqli_query($conn,$select_display);
  while($row1 = mysqli_fetch_array($select_sql1)){
- $login_username=$row1[1];
- $email_id=$row1[3];
+ $admin_username=$row1[1];
  
  }
 
@@ -61,7 +60,7 @@ $showError=false;
             <?php
 
             
-            $select_display="SELECT * FROM transactions WHERE (balance_type = 'debit' OR (balance_type = 'credit') ORDER BY transfer_id" ;
+            $select_display="SELECT * FROM transactions WHERE (balance_type = 'debit') OR (balance_type = 'credit') ORDER BY transfer_id" ;
             $sql1 = mysqli_query($conn,$select_display);
             $num=mysqli_num_rows($sql1);
             if($num>0){

@@ -151,11 +151,7 @@ echo "
                             <strong style='color:#C0C0C0'>Name:</strong> <p style='color:#C0C0C0'>$full_name</p>
                         </small>
                         </div>
-                        <div class='col-sm-6 '>
-                        <small>
-                            <strong style='color:#C0C0C0'>CVV:</strong> <p style='color:#C0C0C0'>$cvv</p>
-                        </small>
-                    </div>
+                        
                     
                     </div>
         
@@ -238,11 +234,7 @@ echo "
                         </small>
                     </div>
                     
-                        <div class='col-sm-6 '>
-                        <small>
-                            <strong style='color:#C0C0C0'>CVV:</strong> <p style='color:#C0C0C0'>$cvv</p>
-                        </small>
-                    </div>
+                        
         </div>
         
        
