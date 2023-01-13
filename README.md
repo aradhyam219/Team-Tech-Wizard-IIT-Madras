@@ -112,7 +112,7 @@ Languages and Tools
 |`Step 3` |copy folder at Htdocs|
 |`Step 4` |download this repositories and upload it |
 |`Step 5` |Start Xampp Server|
-|`Step 6` |[Admin Panel](https://smilewellnessfoundation.org/hackathon_iitmadras/admin files/login.php)|
+|`Step 6` |[Admin Panel](https://smilewellnessfoundation.org/hackathon_iitmadras/admin%20files/login.php)|
 |`Step 7` |[User Panel](https://smilewellnessfoundation.org/hackathon_iitmadras/net_banking_login.php)|
 
 
