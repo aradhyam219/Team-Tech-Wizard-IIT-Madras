@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi There...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">,
 
-<h1 align="center">👋I'm Ritwik Dalmia team leader and Aradhya Majumder Team Mate</h1>
+<h1 align="center">👋This is by Aradhya Majumder and Teammate Ritwik Dalmia</h1>
 
 
 <!-- --------------------------------------------------Profile Views---------------------------------------------------- -->
